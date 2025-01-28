@@ -4,7 +4,7 @@ namespace Heleket\Api;
 
 final class RequestBuilder
 {
-    const API_URL = "https://api.heleket.com/v1/payment/";
+    const API_URL = "https://api.heleket.com/";
 
     /**
      * @var string
