@@ -1,6 +1,6 @@
 {
-  "name": "cryptomus/api-php-sdk",
-  "description": "Cryptomus api SDK",
+  "name": "heleket/api-php-sdk",
+  "description": "Heleket api SDK",
   "type": "library",
   "version": "1.0.0",
   "license": "MIT",
@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Cryptomus\\Api\\": "src/"
+      "Heleket\\Api\\": "src/"
     }
   }
 }
