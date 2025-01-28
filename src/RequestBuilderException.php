@@ -1,6 +1,6 @@
 <?php
 
-namespace Cryptomus\Api;
+namespace Heleket\Api;
 
 final class RequestBuilderException extends \Exception
 {
